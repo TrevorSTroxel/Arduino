@@ -1,3 +1,5 @@
-# arduino
-Arduino code for a 16x16 grid
-Arduino microcontroller required for this code to function properly
+#Arduino
+<pre>
+Arduino code for a 16x16 grid.
+Arduino microcontroller required for this code to function properly.
+</pre>
